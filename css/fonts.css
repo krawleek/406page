@@ -1,0 +1,14 @@
+
+body{
+	font-family: 'Misto';
+}
+
+@font-face{
+font-family: 'Misto';
+src: url('../fonts/Misto.eot');
+src: url('../fonts/Misto.eot?iefix') format('eot'),
+url('../fonts/Misto.woff') format('woff'),
+url('../fonts/Misto.ttf') format('truetype'),
+url('../fonts/Misto.svg#webfont') format('svg');
+font-weight: normal;
+}
